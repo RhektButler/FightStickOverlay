@@ -1,6 +1,6 @@
 /*BEGIN Fight Stick Controller Styling*/
 .controller.fight-stick {
-    background: url(stick-assets/base.svgz) center no-repeat;
+    background: url(https://raw.githubusercontent.com/RhektButler/FightStickOverlay/main/base1.png) center no-repeat;
     height: 534px;
     width: 1122px;
 }
